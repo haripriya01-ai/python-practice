@@ -1,13 +1,14 @@
-# #repeating to print like printing 1 to 100
-# print(1)
-# print(2)
-# print(3)
-# print(5)
-# print(6)
+print("hey,how are you")
 
-# for i in range(1,6): #the counting is done from 1 to n-1 soo 5
-#     print(i)
+# kavya please complete this code
 
-for i in range(1,11):
-    print("5 X",i,"=",5*i)
+# vani check the code done by kavya
+# ctrl+/ 
 
+#if we have many lines to make them as comments then just press or select all those lines and press crtl+/ button
+#also we can use''' and end the code with ''' to make compiler not to excute it.
+'''
+print("Hello\nWorld!")
+print("This is a tab\tcharacter.")
+print("Hello", "World", sep=", ", end="!\n")
+'''
