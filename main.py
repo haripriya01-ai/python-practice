@@ -1,6 +1,7 @@
-#conditionals are the basic logic builders in the code
-age=32
-
-if(age>18):
-    print("yoou can drive")#if statement is used in python based on the condition
-print("end of programme")    
+sentence="coding in python is fun"
+vowels=['a','e','i','o','u']
+sum=0
+for char in sentence.lower():
+    if(char in vowels):
+        sum+=1
+print(f"there are {sum} vowels in sentence")
